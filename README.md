@@ -18,7 +18,6 @@ The project is designed to demonstrate the concepts of:
 
 ## 🚀 Features
 
-* Customer login using a unique account number.
 * Check account balance.
 * Deposit money into the account.
 * Withdraw money from the account.
